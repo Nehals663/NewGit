@@ -4,3 +4,4 @@ video call
 type option 
 color 
 new Features
+Payment
