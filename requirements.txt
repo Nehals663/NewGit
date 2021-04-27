@@ -2,4 +2,5 @@ This is the chat application
 Emoji
 video call 
 type option 
-color
+color 
+new Features
